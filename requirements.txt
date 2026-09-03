@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+pandas
+rasterio
+matplotlib
+Pillow
+scikit-image
+tacoreader<1.0
